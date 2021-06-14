@@ -1,15 +1,17 @@
 ---
-title: 'No hello world Allowed, this is another testing'
+title: 'No hello world allowed, this is another testing'
 date: 2021-06-13 03:54:42
 tags: 
-- tonus
-- rrope
-categories: 
-- Perros
+- command
+- linux
 ---
 ## Title 2
 
-Vamos a ver como sale esto
+Esto es un post de prueba. Lo voy a borra en los proximos dias. 
+
+Ahi, estaba hablando de las ventajas y desventajas de usar passwd como -l o -d en un servidor con acceso unico de SSH. lol
+
+---
 
 Cabe mencionar que este apartado consiste en solamente consejos y posibilidades, por lo que cada una de ellas debe de considerarse en un entorno de Produccion.
 
