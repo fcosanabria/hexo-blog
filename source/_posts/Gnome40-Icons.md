@@ -1,5 +1,5 @@
 ---
-title: 'GNOME 40 ya uso Top Icons :('
+title: 'GNOME 40 ya no usa Top Icons :('
 date: 2021-06-19
 tags:
 - linux
