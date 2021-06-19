@@ -5,8 +5,11 @@ date:
   '[object Object]': null
 ---
 
-
 ## ES
+
+Hola, mi nombre es Francisco Sanabria. Trabajo en IBM como Ingeniero en Sistemas, especialista en comunicaciones EDI y B2B. Especialista en IBM Cloud, y entusiasta de los contenedores. Soy artista visual y productor de música. Más abajo explico cuales son mis proyecto y cuento a que me dedico de manera más detallada.
+
+Gracias por estar acá.
 
 ### Música
 
@@ -49,10 +52,14 @@ Esta comunidad está llena de personas de distintos gremios; tecnología, agricu
 
 ## EN
 
+Hi, I'm Francisco Sanabria. I'm currently working at IBM as System engineer, EDI & B2B specialist and IBM Cloud practitioner. I like containers and it's technologies. I'm a visual artist, and music producer. Below, you will find more about me and my projects.
+
+Thanks for read.
+
 ### Music Projects
 
 [Abysmal Sun](https://abysmalsun.com): Abysmal Sun is a record label based in Costa Rica, currently managed by myself and [Pablo Arias](https://www.instagram.com/pabloarias._/). Our approach is to show dark and sinister sounds, but we try to be genre-less, in order to give space to any artist who wants to show their art.
- 
+
 #### Other Music Projects
 
 - Corax Umbra: Música Industrial, EBM, Experimental, Industrial Techno.
@@ -76,6 +83,6 @@ Currently these are the tools I use (the ones I remember):
 - I used [Hydra](https://github.com/ojack/hydra) as place to get textures. I'm not an expert in live coding but I would like to get deeper on video sythns and live coding.
 - Every now and then I use [Processing](https://processing.org/) in order to work with large density pixel photos (+5000px), for example the ones I took my Nikon 7100.
 
-### Comunity
+### Community
 
 [Jaquerespeis](https://bunqueer.jaquerespeis.org/),  is full of people from different fields; technology, agriculture, literature, philosophy, music, arts and so on. Focused in open source technologies and decentralized trades. We are open to people to participate with us. Our goal to create a free community that respects knowledge and people. Let me know if you are interested, so I can add you to the Telegram group or you can just simply share in our online community called [Bunqueer](https://bunqueer.jaquerespeis.org/), which is our space for sharing and discuss.

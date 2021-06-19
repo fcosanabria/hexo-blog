@@ -7,6 +7,7 @@ tags:
 categories:
 - tutorial
 ---
+
 ## Synopsys(?
 
 Para estrenar el blog que hice, les voy a contar un poquito de como fue el proceso para poder realizar este blog, no sé si desde cero, pero sí asumiendo que ustedes ya saben usar varias herramientas indispensables y otras cosillas.
