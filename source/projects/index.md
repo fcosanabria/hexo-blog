@@ -1,26 +1,20 @@
 ---
 title:
-  '[object Object]': null
-date:
-  '[object Object]': null
+  'Projects'
 ---
 
-## ES
-
-Hola, mi nombre es Francisco Sanabria. Trabajo en IBM como Ingeniero en Sistemas, especialista en comunicaciones EDI y B2B. Especialista en IBM Cloud, y entusiasta de los contenedores. Soy artista visual y productor de música. Más abajo explico cuales son mis proyecto y cuento a que me dedico de manera más detallada.
-
-Gracias por estar acá.
+### ES
 
 ### Música
 
-[Abysmal Sun](https://abysmalsun.com): Abysmal Sun es un record label situado en Costa Rica, es actualmente manejado por mi persona y por [Pablo Arias](https://www.instagram.com/pabloarias._/). Nuestro enfoque con el sello discográfico es mostrar sonidos oscuros y siniestros, pero procuramos en ser libres en género, para poder darle el espacio a cualquier artista que así quiera mostrar su arte. Apesar de que solo estamos él y yo a cargo, sentimos que vamos por buen camino, hemos tenido buena respuesta por parte de las personas que están interesadas en formar parte de la comunidad. En la página de Abysmal Sun, arriba, podrán encontrar más detalles al respecto.
+[Abysmal Sun](https://abysmalsun.com): Abysmal Sun es un record label situado en Costa Rica, es actualmente manejado por mi persona y por [Pablo Arias](https://www.instagram.com/pabloarias._/). Nuestro enfoque con el sello discográfico es mostrar sonidos oscuros y siniestros, pero procuramos en ser libres en género, para poder darle el espacio a cualquier artista que así quiera mostrar su arte. A pesar de que solo estamos él y yo a cargo, sentimos que vamos por buen camino, hemos tenido buena respuesta por parte de las personas que están interesadas en formar parte de la comunidad. En la página de Abysmal Sun, arriba, podrán encontrar más detalles al respecto.
 
 #### Otros proyectos
 
 - Corax Umbra: Música Industrial, EBM, Experimental, Industrial Techno.
 - Order From Chaos: Hi-Tech, Darkpsy.
 - Diamond Demoiselle: Nu Disco.
-- Y un montón más de proyectos anonimos de Drum and Bass, Bass House, Glitch (No bass related), y Vaporwave.
+- Y un montón más de proyectos anónimos de Drum and Bass, Bass House, Glitch (No bass related), y Vaporwave.
 
 ### Arte Visual
 
@@ -50,11 +44,7 @@ Esta comunidad está llena de personas de distintos gremios; tecnología, agricu
 
 ---
 
-## EN
-
-Hi, I'm Francisco Sanabria. I'm currently working at IBM as System engineer, EDI & B2B specialist and IBM Cloud practitioner. I like containers and it's technologies. I'm a visual artist, and music producer. Below, you will find more about me and my projects.
-
-Thanks for read.
+### EN
 
 ### Music Projects
 
