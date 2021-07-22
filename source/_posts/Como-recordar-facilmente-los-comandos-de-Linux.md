@@ -1,17 +1,18 @@
 ---
-title: Recordando fácilmente los comandos de Linux?
+title: Recordando fácilmente los comandos de Linux
 date: 2021-07-21 22:14:54
 tags:
--guide
--linux
--command
+- guide
+- linux
+- command
 ---
+
 ## ¿Cómo recordar fácilmente los comandos de Linux?
 
-Existen cientos de comandos en Linux, y pues recordarlos todos es absolutamente imposible. Además de que tampoco es necesario. 
-Muchas veces sucede que cuando estoy realizando mis tareas diarias me quedo en blanco enfrente de la terminal tratando un comando en particular, lo cual es completamente normal, y lo cual no es nada para avergonzarse. Además cabe aclarar que esto suele pasar aún más cuando estamos aprendiendo a utilizar la terminal como nuestra arma principal. 
+Existen cientos de comandos en Linux, y pues recordarlos todos es absolutamente imposible. Además de que tampoco es necesario.
+Muchas veces sucede que cuando estoy realizando mis tareas diarias me quedo en blanco enfrente de la terminal tratando un comando en particular, lo cual es completamente normal, y lo cual no es nada para avergonzarse. Además cabe aclarar que esto suele pasar aún más cuando estamos aprendiendo a utilizar la terminal como nuestra arma principal.
 
-Lo bueno es que hay buenas noticias para todos, ya que existe un par de tips que nos ayudaran con eso. 
+Lo bueno es que hay buenas noticias para todos, ya que existe un par de tips que nos ayudaran con eso.
 Este comando es `apropos` y el _historial de comandos_.`apropos` es un comando de Linux se da la tarea de buscar en las `man pages` y las descripciones de los comandos, mediante una palabra u oración clave que le brindemos al comando, dando como resultado una serie de resultados relacionados.
 
 Pongamos un ejemplo de que se te olvida cual es comando para poder listar los directorios. Veamos entonces como el comando `apropos` nos ayudaría.
@@ -72,4 +73,4 @@ Hay que usar las teclas _Arriba_ y _Abajo_ para navegar entre los comandos que s
 
 > Hay unas cuantas maneras mas avanzadas para poder gestionar los comandos que usamos con mas relevancia, usando distintas herramientas, pero ese es tema para otro apartado y muy probable cada uno de ellos requiera un entry distinto.
 
-Gracias por llegar h·asta acá, espero leernos pronto.
+Gracias por llegar hasta acá, espero leernos pronto.
