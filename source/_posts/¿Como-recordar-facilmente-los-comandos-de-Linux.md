@@ -1,11 +1,13 @@
 ---
-title: ¿Cómo recordar fácilmente los comandos de Linux?
+title: Recordando fácilmente los comandos de Linux?
 date: 2021-07-21 22:14:54
 tags:
 -guide
 -linux
 -command
 ---
+## ¿Cómo recordar fácilmente los comandos de Linux?
+
 Existen cientos de comandos en Linux, y pues recordarlos todos es absolutamente imposible. Además de que tampoco es necesario. 
 Muchas veces sucede que cuando estoy realizando mis tareas diarias me quedo en blanco enfrente de la terminal tratando un comando en particular, lo cual es completamente normal, y lo cual no es nada para avergonzarse. Además cabe aclarar que esto suele pasar aún más cuando estamos aprendiendo a utilizar la terminal como nuestra arma principal. 
 
