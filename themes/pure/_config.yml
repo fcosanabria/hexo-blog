@@ -188,8 +188,8 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Francisco Sanabria
-  author_title: Visual Artist, System Engineer.
-  author_description: Francisco is a System Engineer focused in System Administration, SRE and Operations activities. For my non-work side, I like to make music, and create visual art. 
+  author_title: Welcome to my Brain Forest
+  author_description: Francisco is a System Engineer focused in System Administration, SRE and Operation activities. On my non-work side, I like to make music, and create visual art. 
   location: San José, Costa Rica
   follow: https://github.com/piktonus97m
 
