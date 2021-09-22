@@ -51,4 +51,20 @@ Una pagina de manual se divide en varias secciones; usualmente dirigidas para ca
   
 Algunos man pages como comentaba ahora, suelen tener todas estas secciones y otras no, dependiendo de que tan bien esté documentado el comando referido.
 
+### Formato de las páginas del manual
+
 Ahora analicemos lo como se tiene que leer el formato de las man pages. El formato hace que todo lo que dice las paginas del manual cobren un sentido logico. Usualmente los autores la mayoria de las veces van asumir el uso comun de los comandos en Linux y ademas de eso asumirán que sabemos como interpretar el formato, haciendo referencia a esta estrategia para poder nosotros descifrar como usar el comando, y llegar a reemplazar o complementar los valores, argumentos o flags requeridas.
+
+- Letras en **bold** o **negrita**, deben de escribirse exactamente como están.
+- Las palabras entre `[]` son opciones, es decir, se pueden enviar como argumentos al comando.
+- Las letras en *italics* o *cursiva* deben sustituirse por sus argumentos.
+
+Se presiona la tecla flecha *ARRIBA* y *ABAJO* para poder movernos de línea por línea, bien podemos usar "j" o "e" para irnos hacía arriba y "k" o "y" para irnos hacía abajo.  
+
+Se presiona la tecla *IZQUIERDA* y *DERECHA* para movernos media página. O bien podemos usar "d" y "u" para movernos media página respectivamente.
+
+Usamos "ESPACIO" para poder movernos una página entera. O bien podemos usar "f" y "b" para movernos una página entera hacía arriba o hacía abajo respectivamente.
+
+ > Nota: Cuando me refiero a página o media página es básicamente el tamaño de la ventana en pixeles de la terminal que actualmente se está usando.
+
+!!!!!WORK IN PROGRESS!!!!!
