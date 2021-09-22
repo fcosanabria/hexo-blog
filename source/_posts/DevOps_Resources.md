@@ -3,12 +3,10 @@ title: Awesome DevOps
 date: 2021-09-18 22:45:44
 tags:
 - development
-- devOps
+- devops
 categories:
 - resource
 ---
-
-## Awesome DevOps
 
 Me han comentado por ahí de donde saco mis recursos. Y bueno les voy a contar un secreto. Yo lo que uso para buscar recursos curados y que valgan la pena, es darme una vuelta por GitHub. Sí, por GitHub; acá existen demasiados repositorios de demasiado valor, como lo son los famosos **Awesome Repos**.
 

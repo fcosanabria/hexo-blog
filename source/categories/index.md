@@ -1,8 +1,5 @@
 ---
-type: categories
-
-title:
-  '[object Object]': null
-date:
-  '[object Object]': null
+title: Categories
+layout: categories
+comments: false
 ---

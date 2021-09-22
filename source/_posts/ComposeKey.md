@@ -2,7 +2,7 @@
 title: Activando el Compose Key
 date: 2021-06-23 22:45:44
 tags:
-- Linux
+- linux
 categories:
 - guide
 ---
